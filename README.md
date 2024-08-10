@@ -30,12 +30,13 @@ Files: Task_3_feature_engineering(revised).ipynb, clean_data_after_eda.csv
 - Model: Developed a random forest model for churn prediction with 90% accuracy.
 
 ### Task 4: Analytics and commercial application
-Files: Task_4_modeling(revised).ipynb, data_for_predictions.csv, out_of_sample_data_with_predictions.csv, Executive Summary Best Practices.pdf
+Files: Task_4_modeling(revised).ipynb, data_for_predictions.csv, out_of_sample_data_with_predictions.csv
 
 - Outcome: Presented predictive modeling results and provided actionable recommendations.
 - Deliverable: Executive summary highlighting key insights.
 
 ### Report Summary
+File: Executive Summary Best Practices.pdf
 - PowerCo has high churn rate 9.7% with 14606 customers. 
 - The predictive model performs well for predicting non-churners, but price sensitivity isn’t the main driver. 
 - Churn’s key influential factors are Yearly consumption, forecasted consumption, net margin, and time-related factors like tenure and contract updates. 
