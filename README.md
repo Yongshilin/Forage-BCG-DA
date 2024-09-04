@@ -17,7 +17,7 @@ This project involved completing 4 tasks as part of BCG's Data Science Job Simul
 - Approach: Identified necessary client data and outlined investigative techniques.
 - Deliverable: Summarized approach in an email to the Associate Director.
 
-### Task 2: Business Understanding & Hypothesis Framing
+### Task 2: Exploratory Data Analysis
 Files: Forage_BCG_Task_2_EDA(revised).ipynb, client_data.csv, price_data.csv, Data Description.pdf
 
 - Analysis: Investigated price sensitivity and other factors influencing churn.
